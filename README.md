@@ -53,18 +53,12 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/MuhammedAdebiyi/C-Student-Report-Card-System
 Navigate to the project directory:
 
-bash
-Copy
-Edit
-cd "National Emergency Alert System"  # or your correct folder
+cd "Student Report Card System"  # or your correct folder
 Run the program:
 
-bash
-Copy
-Edit
 dotnet run
 📚 What I Learned
 How to use enums for grading systems
