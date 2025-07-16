@@ -1,0 +1,14 @@
+C:\Users\PC\Documents\Repo\Student Report Card System\obj\Debug\net9.0\Student Report Card System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Repo\Student Report Card System\obj\Debug\net9.0\Student Report Card System.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Repo\Student Report Card System\obj\Debug\net9.0\Student Report Card System.AssemblyInfo.cs
+C:\Users\PC\Documents\Repo\Student Report Card System\obj\Debug\net9.0\Student Report Card System.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Repo\Student Report Card System\bin\Debug\net9.0\Student Report Card System.exe
+C:\Users\PC\Documents\Repo\Student Report Card System\bin\Debug\net9.0\Student Report Card System.deps.json
+C:\Users\PC\Documents\Repo\Student Report Card System\bin\Debug\net9.0\Student Report Card System.runtimeconfig.json
+C:\Users\PC\Documents\Repo\Student Report Card System\bin\Debug\net9.0\Student Report Card System.dll
+C:\Users\PC\Documents\Repo\Student Report Card System\bin\Debug\net9.0\Student Report Card System.pdb
+C:\Users\PC\Documents\Repo\Student Report Card System\obj\Debug\net9.0\Student Report Card System.dll
+C:\Users\PC\Documents\Repo\Student Report Card System\obj\Debug\net9.0\refint\Student Report Card System.dll
+C:\Users\PC\Documents\Repo\Student Report Card System\obj\Debug\net9.0\Student Report Card System.pdb
+C:\Users\PC\Documents\Repo\Student Report Card System\obj\Debug\net9.0\Student Report Card System.genruntimeconfig.cache
+C:\Users\PC\Documents\Repo\Student Report Card System\obj\Debug\net9.0\ref\Student Report Card System.dll
